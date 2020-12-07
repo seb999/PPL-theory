@@ -1,0 +1,44 @@
+Amplitude, wavelength and frequence
+
+the higher the frequence is, the shorter the wavelength is
+
+VHF 30-300 Mhz
+
+To transmit information there is 2 way:
+-modulation Amplitude
+-modulation of frequency (FM : variaton of the wave length )
+
+Propagation of radio wave 3 way:
+-in line
+-following the curve of the earth
+-like a pool ball by reflection on ionosphere
+
+Disturbances of radio wave
+-radio shadow (like in the hangar)
+-simultaneous transmission
+-precipitation weaken the radio signal
+
+Example de calcule
+Feq = C/Wave length(lambda)
+
+lambda = c/freq
+if frequence is 118.1 Mhz
+lamdba = 3x10^8 / 118.1
+
+300 000 000 / 118 100 000 = 2.54
+
+---------------------
+Calcul how far in advance can you contact Malmo
+R = 1.225(sqrt(H) + sqrt(h))
+
+
+
+    The altitude of the aircraft is 6000 feet
+    The altitude of the tower is insignificant
+    R = 1.225(√6000)
+    R = 1.225 x 77,5
+    R = 95 nautical miles
+
+
+
+
