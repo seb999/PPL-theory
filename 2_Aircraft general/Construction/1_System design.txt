@@ -1,0 +1,38 @@
+SYSTEM DESIGN
+the pilot manauel AFM
+the pilot operating handbook POH
+
+DESIGN CONCEPTS
+Fail-Safe (if not working properly the plane still fly ex : breaks)
+Safe-life (will never break during the life of the plane)
+Damage-tolerant (part of plane can accept damages, like a crack in a window)
+Load factor
+
+LOADS AND IMPACTS
+g force
+limit factor, over it the aicraft can be damaged (+3.8 / -1.52g)
+ultimate load, over will cause the structure to break
+
+Strengths and stress
+Tension
+Compression
+Shear (cisaillement)
+
+Maintenance
+maintenance programme or periodidicity like every 50 hours for cessna
+If engine has not been used for long period, it require an inspection
+Corrosion control every 5 years
+
+Componenets
+Components of an aircraft have different time limit
+
+STRUCTURES
+
+
+LANDING GEAR
+
+FLIGHT CONTROLS
+
+ELECTRICAL SYSTEM
+
+
