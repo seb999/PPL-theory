@@ -1,0 +1,46 @@
+Piston, turbo propeller or jet engine
+
+Piston, valves, spark plug, cylinder, rod (bielle), engine block
+Air cooling usually with ailette 
+
+Lower park (engine block), with cylinders
+Upper part with spark plugs and valves
+
+Piston:
+Piston rings (segment ou joint)
+Connected to the crankshaft
+Distance between up and down of piston is called stroke
+It determind the compression ratio
+
+crankshaft
+
+camshaft
+arbre a cam
+cams that open and close valves
+
+the 4 strokes engine
+-intake
+-compression-combustion
+-exhaust
+
+Additional systems required arbre
+The systems we need are:
+
+    Ignition
+    Lubrication
+    Fuel
+    Cooling
+
+
+Jet engine
+
+Diesel engine
+
+
+
+
+
+
+
+
+

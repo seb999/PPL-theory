@@ -1,0 +1,18 @@
+Troposphere : 8 - 16km (26 000 feet - 52 000 feet)
+Tropopose 
+Strasphere 
+Mesosphere 
+Ionjosphere 
+
+Space is 100km above the sea 
+
+Bernouilli Ptotal = Pstatic + P dynamic 
+
+ISA (International Standard Atmosphere) 
+1013.25Hpa
+15 degrees 
+1m3 = 1.225 kg
+
+- 1hPa for each 27 feet 
+The tropopose is 36 000 feet -56.5 degrees
+- 2 degrees for every 1000 feet 

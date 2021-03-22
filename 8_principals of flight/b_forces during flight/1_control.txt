@@ -1,0 +1,3 @@
+X : longitudinal / bank axe 
+Y : lateral / pitch
+z : normal axis / yaw

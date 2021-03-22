@@ -1,0 +1,27 @@
+ICAO 1944 - 193 countries for assemby
+36 countries for councile
+
+EASA - created in 2000
+Rules, regulations, training electromagnetic
+
+A rugulation is followed by a IR (Implementation rule)
+Can be added a AMC(Acceptable Means of compliamce)
+or a GM (Guidance material)
+A consolidtaion version of a regulation is usually pulish
+
+Attention, you have to read all amendement added to 
+regulation / consolidated version
+
+Then each coutries have their own aviation authority
+They implement EASA regulations or their own regulation
+
+If you fly abraod you have AIP
+regulation and rules for each country
+(Aeronautical Information Service)
+ICAO annex 15
+GEN - Generale
+EN - En route
+D - airportes
+
+
+

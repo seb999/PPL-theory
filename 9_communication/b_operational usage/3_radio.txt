@@ -1,0 +1,2 @@
+Use Radio to start all communication on uncontrolle airspace 
+123.45 is default frequency

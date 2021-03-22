@@ -1,0 +1,34 @@
+Take off distance:
+from brake released to 50feet altitude
+At speed 20% higer than stall speed 
+100% of the runway can be used 
+
+MASS 
+Heavy aircraft will need more runway
+-more spped needed
+-more friction on ground 
+-slower acceleration 
+-slower climbing 
+
+WITH flaps
+-can take off at slower speed
+-less friction 
+-More drag 
+-Climb slowly
+So you take of earlier but climb at slower speed 
+Retact flat at 300 feets 
+
+surface
+-grass +10%
+-water +20%
+-wet snow +10%
+-dry snow +5%
+
+Density Altitude is very important to calculate 
+
+Wind in nose is good
+you decrease distance by 1% for each nds 
+you increase distance by 4% for each tailwind 
+
+
+

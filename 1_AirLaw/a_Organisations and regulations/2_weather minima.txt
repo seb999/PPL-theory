@@ -1,0 +1,25 @@
+VMC - Visual Meteorological Conditions
+IMC - Instruments Meteorological Conditions
+
+VFR - Visual Flight Rules
+IFR - Instrument Flight Rules
+
+in VMC you have 2 type of air space
+-Controlled 
+-uncontrolled
+
+Controlled airspace
+-1000 feet vertically
+-1500 metres horizontaly to clouds
+-5km visibility / 8km if above 10 000 feet
+
+COntrolled airspace with Special VFR
+-140 knot max
+-Visibility 1.5 km
+-free from clouds
+
+Uncontrolle airspace same rules
+But exception bellow 3000 feet form sea 
+or bellow 1000 feet from the ground
+-free from clouds
+

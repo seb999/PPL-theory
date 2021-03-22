@@ -1,0 +1,28 @@
+MTOM : Maximum take off mass 
+MLM : Maximum Landing Mass 
+MZFM : Maximum Zero Fuel Mass 
+ 
+ to calculate Masse before take off 
+ 1) Calculate mass without fuel  
+ BEM + Passenger + Baggage < MZFM 
+ 
+ 2) Then you add the fuel  
+ Upper result + fuel < MTOM 
+ 
+ 3) Then you calculate the landing masse in regards to consumption 
+
+-------------------
+ To use Standard Weight by passenger from ICAO 
+ 1) 5 seats plane at least
+ 2)used for commercial usages 
+-----------------------
+ Then the center of gravity 
+Add balast if necessary 
+ 
+ LIMITATIONS
+ The limit load factor 
+ Ususally +3.8g -1.52G 
+
+ BALANCE
+Center gravity forward, more consumption and more stability
+Center gravity backward, less consumption and less stability

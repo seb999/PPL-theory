@@ -1,0 +1,25 @@
+Static pressure
+Airspeed 
+Altimeter 
+Vertical speed 
+
+Total pressure
+Airspeed (pitot)
+
+The air pressure decrese by 1hPa per 27 feet
+
+QFE : height above a terrain.
+Will always show 0 at the ground
+
+QNH: altitude above the sea Level
+So we get the altitude above sea of the terrain
+
+STD : when abstaxle doesn;t manner anymore
+1013hpa for all planes
+
+Air speed indicator show the IAS (Indicated air speed)
+Correction must be applied to get the CAS (Calibrated air speed)
+Air density change with altitude
+
+Variometer
+

@@ -1,0 +1,7 @@
+You calculate the weight 
+Weight of passengers 
+Weight of baggage 
+Weight of fuel
+
+Then moment of each mass 
+

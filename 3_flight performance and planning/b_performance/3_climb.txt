@@ -1,0 +1,6 @@
+Vx : best Angle-of-climb 
+Speed that allow to gain altitude for shortest distance 
+(to avoid abstacles)
+
+Vy : best Rate-of-climb 
+Best climbing by unit of time 

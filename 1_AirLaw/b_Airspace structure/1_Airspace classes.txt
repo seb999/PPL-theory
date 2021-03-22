@@ -1,0 +1,30 @@
+COntrolled and uncontrolled 
+
+In controlled airspace, you need a clearance 
+obtained with a flight plan
+
+7 airspace classes 
+A,B,C,D,E controlled
+F,G uncontrolled
+
+c : 2 way radio, transponder, and clearance 
+G : you don;t need radio or transponder 
+
+each countries has a FIR 
+(fight information region)
+
+TMA (Terminal area) to protect traffick arround airport 
+
+CTR : airspace from ground to an altitude 
+control by a tower 
+
+Above the CTR you have the TMA.
+The TMA is divided into a number of sectors controlled 
+by different air traffick controller
+
+CTR and TMA are C airspace
+
+TIZ and TIA are uncontrolled airspace
+Traffick information area just give info 
+Traffick inforamtion zone for uncontrolled airport 
+

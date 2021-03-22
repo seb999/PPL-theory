@@ -1,0 +1,47 @@
+Flight control
+-primary flight controls
+-secondary flight controls
+
+primary : you manoeuvre the aircraft
+secondary : facilitate the pilot (flaps, trim)
+
+Power control:
+-for big airplane we use hydrolic fluid 3000 PSI
+water is not compressible but will freeze
+We use fire resistant synthetic fluid
+
+ELEVATORS
+they control the pitch of the aircraft
+
+AILERONS
+control the bank of the aircraft
+controled by the yoke. We increase the lift on on side or the other, the plane bank and turn
+The problem is that it creates also grag on the opposite and the plane turn on the opposite direction
+You can have a differential gear in the aileron system that will cause the ailerons that goes down to have less 
+deflection than ailerons that goes up
+
+RUDDER
+
+FLAPS 
+
+TRIM 
+
+BALANCE TABS 
+-it reduces the imput when you manoeuvre the controls
+-for instance on cessna you have servo tap on the ELEVATORS
+
+LOCK controls
+
+
+
+
+
+
+
+
+
+
+
+
+
+

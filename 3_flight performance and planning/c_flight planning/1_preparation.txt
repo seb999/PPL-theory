@@ -1,0 +1,22 @@
+Take off Airport 
+Alternate airport 
+Landing airport are good to use 
+
+Aicraft is airworthy 
+Mass, balance, performance and fuel planning 
+
+Weather 
+
+---------------------
+Then you prepare 2 types of flight plan 
+-Operational flight plan (tracks, time, distance, fuel consumption)
+-ATS flight plan if we plan to cross multiple airspace 
+
+ATS has to be submitted is borders will be cross 
+
+Information about airports in AIP AD 
+
+
+
+
+ 

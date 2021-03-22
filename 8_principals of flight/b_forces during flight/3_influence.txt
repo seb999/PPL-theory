@@ -1,0 +1,6 @@
+Secondary flight controls:
+flaps
+Slat
+Spoilers 
+Winglets 
+T-Tail 

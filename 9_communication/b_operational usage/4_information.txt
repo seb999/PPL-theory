@@ -1,0 +1,2 @@
+Use Information word to initiate contact radio in TIZ 
+Use AFIS freqnency. They give you informations but no clearance 

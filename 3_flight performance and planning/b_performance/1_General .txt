@@ -1,0 +1,18 @@
+Performance are in EASA part NCO
+
+Performance influence by 
+ Mass, Center of Gravity,
+ Runway condition, meteo 
+
+Pression altitude:
+27feet for each hpa lower than 1013
+Ex airport at 4000 feet QNH 993
+Will have pressure altitude 4000 + (27x 20)
+
+Density altitude:
+2degrees by 1000feet
+
+and 1 degree different from standard 15 degree = 120 meters
+
+
+

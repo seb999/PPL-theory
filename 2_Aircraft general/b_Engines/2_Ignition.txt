@@ -1,0 +1,26 @@
+combustion control by spark pluggs
+Advance ignition is necessary due to the delay taken by the mixture to burn
+
+Diesel 
+Spontanous ignition, no spark pluggs
+
+Magnetos
+20 000 volts needed
+Direclty driven by engine crankshaft
+DANGER 
+Construction : 2 coils, a primary and secondary.
+The rotation of primary induct a electromagnetic field
+A switch cause the electromagnetic field to drop abrutly 
+and create a deep current in secondary
+
+Ignition switch(the key)
+5 pisition
+-off
+-magn 1
+-mag 2
+-both
+-start
+
+START ENGINE 
+120 rpm reach with starter motor 
+ 

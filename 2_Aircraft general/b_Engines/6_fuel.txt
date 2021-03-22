@@ -1,0 +1,24 @@
+Fuel is fuel, nothing to say.
+There is a fuel filter
+A fuel pump
+Full tanks
+
+Holes in the fuel tank to let the air entering
+
+The unusable fuel (the intake is slitly up from bottom)
+The humidity can be purged by a valve at bottom
+
+Fuel selector
+
+Gravity or fuel pump bring fuel to carburettor
+An additional electric pump is there in case mecanical fuel pump is not working
+
+Type of fuel
+-AVGAS 100
+-AVGAS 100LL blue
+-AVGAS 80-87
+
+vapor lock : fuel into gas that stop the engine during summer 
+we use electric pump to avoid this 
+
+

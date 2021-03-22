@@ -1,0 +1,25 @@
+Runway always in white
+An arrow at beggining mean you can use this surface to take off 
+
+Taxiway in yellow
+
+2 solids lines mean you need a clearance to pass 
+
+2 solid line + 2 dash lines mean 
+Clearance to enter runway
+You can leave runway without clearance 
+
+Apron in yellow
+
+Blacl letter on yellow background : direction of next point 
+Yelow letter on black backgroung : position 
+
+Blue : Taxiway edge blue,
+Green : middle of Taxiway 
+Red : end of runway 
+White : edge of runway 
+Green : threshole runway
+Stopbar : light to be off to pass 
+
+PAPI
+ 

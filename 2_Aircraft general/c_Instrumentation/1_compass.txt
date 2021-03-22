@@ -1,0 +1,29 @@
+4 categories of instruments
+-Magnetic compass
+-Pressure instruments
+-Gyro instruments
+-Engine instruments
+
+Compass show the magnetique north 
+Different than the geographic north
+
+The megnetic lines make the compas to point to the fround 
+To avoid this we put a weight 
+The weight is as low gravity point 
+
+Mettalic equipement of the plane create a deviation
+Use the deviation table to adjustedIt is called deviation swing
+
+ANDS :
+WHen you fly East or West 
+If you accelerate compas point to the north 
+If you deccelerate, it point to the south 
+
+UNOS :
+WHen you turn norh you undershot the reading 
+When you turn south you Overshot the reading
+
+Difference between Magnetic and geographic north is called Variation 
+Perturbation due to metlalic plane is called deviation
+
+

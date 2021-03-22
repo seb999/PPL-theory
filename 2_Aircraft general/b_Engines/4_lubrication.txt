@@ -1,0 +1,17 @@
+OIl to lubricate and cool down
+Level of oil check with dipstick 
+
+Dry sump system:
+-oil reservoir
+-filter before oil pimp
+-filter after oil pump
+-By pass if pressure too high
+-oil cooler
+-by pass if oil is too cold
+
+Wet sump System :
+Cheaper, lighter but less control on oil temperature
+-Oil reservoir under engine
+-oil pump to push it to the crankshaft
+-THe crankshaft splash oil everywhere and under cylinders
+

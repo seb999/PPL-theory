@@ -1,0 +1,7 @@
+Aircraft operate in 4D
+-positon
+-weather
+-other
+-time
+
+Humain brain can process only 1 problem at a time

@@ -1,0 +1,32 @@
+Carburettor
+2 primary teasks:
+-control the amount of fuel entering in cylinder
+-mix fuel and air in right ptoportion
+
+2 elements compose a carburator
+-float chamber
+-carburettor head
+
+FLAOT chamber
+The float (le fortteur) is here to keep right amount a fuel in the chamber
+
+THE THROTTLE CONTROL (le papillion)
+
+THE mixture
+8:1 (richest mix) to 20:1(leanest mix)
+
+Forbidden to lean if 75% or more power is used
+
+The acceleration pump to fix the 
+latency of the full the respond 
+When you press the accelerator you pump extra full
+
+Carburettor heat:
+Carbu works based on venturi effect 
+Increase temp by 20 degres,
+Increase consumption 30% 
+Loose 50rpm
+
+
+
+

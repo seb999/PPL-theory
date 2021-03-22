@@ -1,0 +1,19 @@
+an airworthiness certificate must be issued and in the aircraft during flight time 
+
+revalidation of airworthiness which is valid for one year ICAO 
+
+MaintenaNCE EVERY 50H 
+dATA ENTERED IN THE AIRCRAFT LOGBOOK 
+
+EFIS for moderm aircraft 
+First screen for flight instruments called PFD (Primary flight Display) 
+Second for navigation ND 
+
+Transpondeur : 
+
+Radio : 118 to 136.975 Mhz
+
+Data link :
+To reduce radio talks
+ACARS
+

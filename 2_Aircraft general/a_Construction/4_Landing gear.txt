@@ -1,0 +1,26 @@
+Landing gear
+
+    Manoeuvre the aircraft on the ground
+    Absorb the forces upon landing
+    Establish clearance for propellers and flaps
+
+Shock absorbers
+can be hydrauic/ pneumatic 
+can be spring steel 
+
+Breaks
+disc break mounted on rear wheel
+
+Nose wheel
+The nose wheel's primary task is to stabilize and steer the aircraft on the ground.
+Vibration can desintegrate the wheel at high speed
+We install a shimmy damper or jazz damper to fix this problem
+
+Tyres
+nothing special to say
+
+Retractable gears
+reduced drag
+
+
+

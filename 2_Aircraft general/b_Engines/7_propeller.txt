@@ -1,0 +1,21 @@
+Constructed in wood or metal 
+Always check crack 
+
+THe cone (spinner) is use for the aerodynamics
+Always check the spinner 
+
+The blade is twisted to obtain same thrust across the entire surface
+(vitesse not same close or far from axe)
+
+Limited to 2700rpm to avoid sound speed at extremety
+
+Torque
+Yaw the plane to the left if clockwise
+THe slip stream
+
+Propeller with fix RPM
+The angle of attack of the propeller is adjusted automatically by a device
+At low air speed the angle is low
+At high air speed the angle is high
+
+

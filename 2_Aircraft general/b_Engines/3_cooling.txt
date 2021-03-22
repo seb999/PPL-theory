@@ -1,0 +1,15 @@
+Oil to cold : slow down the engine, no proper lubrication, 
+Oil too hot : no lubrication anymore, engine will stop
+
+Air cooling with franges on cylinder to disipate the heat
+
+Cowl flaps to reduce / increase air flux
+
+Fuel mixture cool the engine
+Extra fuel cool the engine, iuf engine become too hot immediat increase to mixture will 
+cool the engine
+
+To monitor the engine heat we use the EGT ( Exaust gas temperature )
+And temperature of culinder the CHT 
+
+

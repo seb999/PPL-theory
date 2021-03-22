@@ -1,0 +1,10 @@
+Best gliding speed
+Should be in theory same as Vy 
+But there are other factors that influence the gliding speed 
+
+And we prefer the speed for longer distance than speed for longer time 
+
+Best gliding speed is at the top of the power curve
+
+We can also calculate the duration of descent with sink rate 
+ex: 4500 feet to descent with 500feet/min = 9 min descent

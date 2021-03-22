@@ -1,0 +1,13 @@
+L=CoefL x Q x S
+
+CoefL = coeficient of list that depend on the angle of attack 
+
+S = Surface alaire 
+
+Q = 1/2 P V2 (Dynamique pressure) 
+(un demi de rho time Speed squar)
+
+If you want to fly slower and keep Lift
+You have to increase CoefL by increasing the angle of attack 
+
+

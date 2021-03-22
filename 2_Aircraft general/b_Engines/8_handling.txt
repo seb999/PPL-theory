@@ -1,0 +1,24 @@
+Turbo charger to maintain optimum mix in carbu for high altitude flight 
+Wastegate to avoid too much pressure 
+
+Modern aircraft use FADEC 
+to regulate fuel injection 
+Get data from the ECU(engine control unit) 
+
+To start the engine :
+-primer a bit
+-trottle 1cm
+-don't pump to avoid carbu fire 
+-10 second only and stop 
+-if not started, re do same procesdure 
+
+-20 to 50 ppm during carbu heat check and magnetos check 
+If not, then danger to manipulate propeller when engine is stop 
+And not a good idea to fly with no carbu heat working 
+
+
+Maintenance every 50 hours 
+Engine life 2400 hours of flight
+
+The more it is cold the more the viscosite increase 
+

@@ -1,0 +1,13 @@
+Gyros:
+-Artificial horizontaly
+-Heading indicator
+-Indicator of turns
+
+15 000 RPM
+applied force will work 90° further in the direction of the gyro 
+
+Wandering : 
+During a fly the earth rotate, but the heading indicator remain set to his initial position,
+Re adjust settings during flight
+
+

@@ -1,0 +1,18 @@
+Permit needed to use radio, entered in licence and valid as long as licence valid
+Examen:
+-written test : 20 questions and 2 modules
+-oral test
+-practical test : how you use the radio
+
+Usage
+
+To be aknowledge
+
+    Clearances
+    Transponder codes
+    Homer information
+    Radio frequencies
+    Information about runways, altimeter settings and the transition altitude
+
+No aknowloedge needed:
+say roger

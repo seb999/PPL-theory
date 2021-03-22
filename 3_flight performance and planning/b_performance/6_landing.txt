@@ -1,0 +1,16 @@
+Vref = 30% above stall speed 
+ncreased mass affects landing by:
+
+    Higher speed
+    Larger momentum
+    Better braking effect
+
+Flaps :
+-give more drag 
+-so we can have steeper descent 
+-lower stall speed 
+-create drag during role out 
+-but  less mass on the landing gear as it create lift 
+
+Decrese distance of 10% for each 9nds 
+

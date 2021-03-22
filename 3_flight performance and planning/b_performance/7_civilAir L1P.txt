@@ -1,0 +1,58 @@
+Use chart to calculate 
+-Head wind 
+-Cross wind 
+-Calculate IAS if static taken from inside 
+-Calculate CAS with or without flaps 
+-Calculate Stall speed 
+
+-Calculate Take-off distance 
+1)Calculate pressure-Altitude of airport 
+2)what surface (paved, grass...) 
+3)Mass of aircrast 
+ 
+ -Or Calculate max mass for take off 
+ 1)take runway length 
+ 2)take wind 
+ 3)Mass aircraft 
+ 4)Temperature 
+ You get the mass 
+
+ -Calculate Vertical speed 
+ (economic or maximum climb)
+ use chart with 
+ 1)Temperature 
+ 2)Mass of aircraft 
+ 3)targeted Altitude
+ You get the vertical spped feet/min  
+
+-Climb (use eco or best climb)
+1)Get pressure-altitude you targete 
+2)Remove Altitude depart 
+3)Get result in table with mass aircraft
+4)Apply coorection -10% for 10 degrees bellow Standard 
+
+-Engine power 
+1)With temperature 
+2)Pression-altitude
+3) % of power you want 
+You get number of RPM to set on engine 
+
+-Cruise 
+(choose best eco or best effect flying type) 
+
+-Endurance 
+with atitude and %power you get the endurance 
+
+-Descent 
+Use chart with Altitude and read time 
+Do the same with Airport Altitude 
+Substract both values 
+
+-Landing 
+
+
+-Landing 
+
+
+
+

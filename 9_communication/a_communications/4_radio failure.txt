@@ -1,0 +1,22 @@
+check switches
+send blind messages
+
+If in uncontrolled airspace => land at uncontrolled airport
+Don;t enter in controlled airpase
+Transpondeur 7600
+
+If controlled airspace
+Transpondeur 7600
+Leave the control airspace, like decending not controlled airspace
+Continue send intension blindly
+
+If not possible uncontrolled, then follow VAC cards in AIP AD
+And get prepare for lights signales
+
+    Series of red flashes - Aerodrome unsafe, do not land (Taxi clear of landing area in use)
+    Steady red - Give way to other aircraft and continue circling (Stop)
+    Series of green flashes - Return for landing (Cleared to taxi)
+    Steady green - Cleared to land (Cleared for take-off)
+    Series of white flashes - Land at this aerodrome and proceed to apron (Return to starting point on the aerodrome)
+
+

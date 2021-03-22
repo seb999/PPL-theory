@@ -1,0 +1,48 @@
+Fuselage structure in 4 way:
+-Framework with pipes (heavy)
+-Monocoque but problem to put windows and door (durable but fragile )
+-Semi-monocoque with stringer (poutre longitudinal) and formers (cadre verticale)
+-Sandwitch for glider for instance
+
+Wing structure 2 way:
+-Framework with 2 parallel spars and ribs. Cover by a cotton tissu
+-Semi-monocoque with 2 spars and ribs with a hole inside.
+    Leading edge is cover by aluminuum. Stringers reenforce the structure
+
+Wing have different shape and position
+-Straight Wing
+-Swept Wing
+-Delta Wing-Monoplan
+-Multiplan
+-Low-winged
+-Mid-winged
+-High-winged
+
+Tail
+-low-Tail
+-mid-Tail
+-T-Tail
+If stabilizer is combine with elevator = stabilator
+
+Landing gear
+-tricycle
+-floats
+-ski racks
+
+Material
+-aluminium
+-iron
+-composite Material
+
+Connecction methods
+-riveting
+-bolt joints
+-soldering and gluing
+
+Limitations
+-MTOM (max take off mass)
+-MLM (max landing mass)
+
+
+
+

@@ -1,0 +1,39 @@
+visibility min 5km
+1000feet vertically to clouds
+1500ft horizontaly to clouds
+
+At 10 000ft
+Visibility 8km min
+1000feet vertically to clouds
+1500ft horizontaly to clouds
+
+Under 3000ft uncontrolled airspace / or 1000 feet or below from ground (ex :mountain )
+Free form any clouds
+Visibility 5km / 3km if you are bellow 140 nds / 1.5 km in traffick circuit
+
+Weather
+METAR
+
+ATIS
+ATIS is given with an assigned Letter. 
+Give weather 
+Runway in use
+
+VOLMET (VOL+METEO)
+Meteo for sevral different airport. Give an approximate idea of the weather on a larger region
+
+SIGMET (Significant Meteorological Information)
+A warning, issue 4h max before the meteo event arrive
+
+REPORT
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+Regulation comes from EASA
+SERA (Sandardisied Europeen Rules of the Air)
+
+Lowest altitude 500 feet above ground or water 
+or 500 feet above higher obstacle with 150 meters radius 
+
+In urban landscapes 1000 feet above higher obstacle 
+with 600 meters radius
+But if the aircraft canot glide or land outside it is not ok 
+
+Max altitude 19 500 feet
+Max altitude 28 500 feet with authorisation
+Forbbiden above due to RVSM 
+
+Priority to right
+-face to face : turn right
+-croissement, turn right
+-depassement par la droite
+
+Speed limit
+-250 nds max under FL100 in C,D,E,F,G 
+
+Flight plan 
+-Operational flight plan for pilot 
+(Heading, distances, fuel) 
+-Or ATS flight plan (Air traffick service) 
+that need to be filed before take-off 
+30 min before departure 
+1h before is border cross 
+And 2h or less before departure 
+
+If flight plan departure deplayed more than 1h, you have to inform ATC 
+If you want to leave 15 min before, new flight plan needed 
+ 
+Anti collision light (BCN, stronboscope)
+Navigation light (Red 110,green 110, white 140)
+
+
+

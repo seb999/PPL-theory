@@ -1,0 +1,9 @@
+Loading instructions 
+
+Fuel table 
+Horizontal the arvage weight of passengers
+Verical number of people
+You read at the interection the load of fuel 
+F = Full 
+-- = Impossible to flight 
+

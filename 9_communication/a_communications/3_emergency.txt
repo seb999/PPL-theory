@@ -1,0 +1,26 @@
+Don;t interrupt any other communication
+Message are divided into 6 categories of priority
+-Emergency messages
+-Urgency messages 
+-Radio direction finding messages
+-Flight safety messages
+-Meteo messages
+-fight regularity messages
+
+1)Emergency
+ MAYDAYx3 (like engine failure) 121.5Mhz
+ Transpondeur 7700
+The end an emerdency, the message : distress traffic ended
+
+2)Urgency (no imediat assisstance required)
+PAN x 3
+Current frequence
+
+3)You are lost
+Request QDM for instance
+
+4)Normal messages between tower and aircraft and aircraft to aircraft
+
+
+
+
