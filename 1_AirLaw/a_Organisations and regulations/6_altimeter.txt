@@ -1,0 +1,20 @@
+QFE, QNH, Standard
+
+QFE - Height above ground
+QNH - Altitude above Sea Level
+STANDARD - 1013.25hPa
+
+TA - Transistion altitude (from QNH to Standard)
+TL - Transition level (From STandard to QNH)
+
+
+7500 Hijacking
+7600 Radio failure
+7700 emergency
+
+Flight Level FLXX5
+0 to 179 degree Impaire XX is 035, 055, 075, 175
+180 to 359 degree Paire 45, 65, 85
+
+VFR FL end with 5
+IFR FL end with 0

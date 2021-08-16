@@ -1,0 +1,32 @@
+An aircraft should be airworthy
+designed, build, equipped occording to valid requiements for safe flying
+
+Maintained respecting the scheddule
+
+Transportyrelsen issue the airworthy certificate
+Issue once as long as maintennace is done
+
+An Annual review certificate is produce by maintnenance organisation
+
+OSM need also a CAMO (Continuing Airworthiness Maintenance Organisation)
+
+MINIMAL EQUIPEMENT
+VFR
+-first aid kit
+-Portable extinguisher
+-Backup fuses
+
+-Airspeed
+-Altimeter
+-Magnetic compas
+-Clock
+
+Registration of aircraft
+Dome by ICAO SE-MKZ
+
+Identification plate
+
+Documentation
+POH (Issue by manufacturer)
+Certificate of Registration
+Log book (White page to log flight, yellow for observations, and pink for technician)

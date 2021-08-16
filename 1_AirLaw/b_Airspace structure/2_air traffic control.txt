@@ -1,0 +1,18 @@
+ATS (Air traffic Service)
+ATS is divided into 3 cathegories
+1) ATC (air traffick controle)
+2) FIS (Flight information Service)
+3) AS (Alerting Service)
+
+Then ATC is divided into 3 cathegories
+Airport Control Service
+Approch Control Service
+Area Control Service
+
+Large Airport have ATIS - Automatic Terminal Information Service
+
+In uncontrolled airpace you can get FIS Flight Information service
+They give information in airpace TIZ and TIA AFIS
+
+AFIS is here to help but not to give clearlance
+They don;t have a radar so give them your position

@@ -1,0 +1,49 @@
+Before EASA
+You have a Licence from one country and your licence was not valide in another country
+
+After EASA and since 8 April 2018
+All countries in Europe should apply EASA regulation for FCL (Flight Crew licence)
+
+The FCL:
+Subpart A : Generale requiement to be a pilote
+Subpart C : Private pilote licence (ex : number of hours of the trianing etc...)
+Subpart H : Class and type rating
+
+Definitions
+Flight time : Time take off -T to land
+Block T : T when aircraft move - T aircaft stop
+Distance flight
+Dual
+Solo
+Night
+Sunrise
+Sunset
+Dawn (Morning civil twilight) : when middle of the sun pass 6 degree bellow horizon
+Dusk(Evening civil twilight) : when middle of the sun pass 6 degree bellow horizon
+
+Medical
+every 2 years until 49 - you until 04/12/2021
+R/T test
+    -Level 4 (valide 4 years)
+    -Level 5 (Valide 6 years)
+    -Level 6 (Indefinit validity)
+
+SEP(L) (Single Engine Piston(Land))
+Sub option
+    Integrated single power lever controls unit
+    Electronic system for presentation of flight instruments (EFIS)
+    Constant speed propeller
+    Retractable landing gear
+    Pressurized cabin
+    Tail wheel
+
+Validity 2 years. 2 possibility for extension
+-Proficiency Check (PC) to do 3 months before exiration 
+-or 11h of flyimg during last 12months 6h ot those as PIC + 12 takeoff landing + 1h with an instructor
+
+
+
+
+
+
+
