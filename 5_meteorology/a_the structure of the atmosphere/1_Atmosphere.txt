@@ -1,0 +1,37 @@
+ATMOSPHERE:
+On a la proportion de gas : azote, Oxygene, gas rare 
+On a les differente couche :
+    -troposfere  36 000tf / 11000m
+    -tropopause
+    -stratosphere
+    -mesosphere
+    -ionosfere
+
+AIR PRESSURE 
+1013.25 hPa at sea level 
+at 18 000 feet pression est la moitier 
+diminue de 1hPa / 27 feet 
+
+TEMPERATURE :
+3 source of heat : 
+    -radiation
+    -conduction
+    -advection
+
+Water from gas to liquid will release heat 
+
+Inversion :
+ - Ground inversion : form usually during the night with clear sky 
+                        or warm air that move on top of cold ground 
+
+- Frontal inversion : when cold air remains below warmer air 
+-Subsidence inversion : In high pressure system, cold air sink from higher level
+-Turbulence inversion
+
+TEMPERATURE
+Cx1.8 + 32 = Kelvin 
+temperature decrease by 1.98 Degree / 1000 feet
+
+
+
+

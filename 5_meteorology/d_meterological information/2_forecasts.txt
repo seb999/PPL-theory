@@ -1,0 +1,22 @@
+TAF validity 9 hours or 24h forecast every 3 hours 
+
+made 30 minutes before 
+
+PROB30 low chance new weather arrive
+PROB40 high chance
+PROB50 is in fact BECMG 
+
+BECMG = becoming, it means a weather change 
+
+TEMPO mean temporaly (cannot be more than 30% of real weather)
+
+Amendement is a new TAF that replace previous one coded :
+TAF AMD AAA then TAF AMD AAB then TAF AMD AAC etc...
+
+TAF is more for IFR pilots, it doesn;t say anything of weather 
+between airports 
+
+For VFR we have LLF (Low Level Forecast (plain text)) 
+updated every 4 hours 
+
+SIGMET (Significant Meteo Condition) it is an Alert 

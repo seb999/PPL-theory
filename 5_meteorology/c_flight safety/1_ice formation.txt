@@ -1,0 +1,39 @@
+Meilleurs condition pour de la glass est de voler dans les nuages 
+Mais pas seulement! 
+
+For ice we need sub zero temperature, but if the skin of the plane is bellow zero you can also have 
+ice 
+
+for VFR pilotes the bigger risk is freezing precipitations 
+Example sub zero temp and it start to rain 
+
+Freezing rain sometimes falls from inversion, Higter it is warm and it rain, and below 
+it is below zero and it turn in ice  
+
+But you can even have ice in an inversion when there is no cloud and precipitation.
+Example, you climb in an inversion with a cold aircraft. The warm air contain so much moist that it 
+turn in ice on the fuselage (sublimation : water vapor to ice)
+
+We have 3 types of ice 
+-clear ice : freezing rain drops 
+-Rime ice : water dropplet that freeze when they hit the fuselage 
+            (in clouds or fog, easier to avoid)
+-Hoar ice : frost cause by water vapor sublimation on wings  
+
+To summarize, you can say that clear ice is formed by freezing 
+rain and forms a transparent layer of ice. Rime ice is formed 
+in clouds and fog and produces a snowy ice formation, 
+mainly on the front edge of the wings. 
+Hoar ice is formed by sublimation when water vapor freezes 
+directly to a frost layer. Both clear ice and rime ice are 
+easy to avoid because they require visible conditions while 
+hoar ice may also occur on a clear winter day.
+
+RISKS :
+Bigger danager is reduced lift (lift reduce and drag increase) 
+Form drag and friction drag 
+
+A sandpaper layer will reduce lift by 30% !!!!
+
+3 way of de-icing :
+bleed hot air taken from engine, boots that you inflate, holes to spread de-icing liquide 

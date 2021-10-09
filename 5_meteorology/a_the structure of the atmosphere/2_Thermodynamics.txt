@@ -1,4 +1,8 @@
 dew point 
-temperaure where air is satured of water
-and fog appear
+temperaure where air is satured of water and fog appear 
 
+Plus l'air est chaud plus elle peut contenir d'humidite 
+
+Temperature and dew point have no connection to each other, 
+except that the temperature cannot be lower than the dew point. 
+While the temperature usually varies during the day, the dew point often remains constant.

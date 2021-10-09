@@ -1,0 +1,34 @@
+Mist, Haze (pas par humidite) : Brume
+Fog : brouillard
+
+Shallow (peu profond)
+
+RVR : Runway Visual Range 
+
+5 type of fog :
+1)Radiation Fog : very thin (x 10 meters high) most commun fog happening during autumn and early winter
+  A l'arrivee de la nuit, la radiation haut sol s'arrete et l'air pret 
+  du sol se refroidit jusqu'a former du brouillard 
+  Le soleil ou le vent supprime ce fog 
+  With cloudless sky it is better, Best conditions are in a cloud-free cold autumn night where it has rained the evening before.
+
+2) Advection fog : de l'air chaud et humid se deplace au dessus d'un sol froid 
+    Super strong FOG (x 1000 feet). Le soleil ne peut pas le penetrer, 
+    Peu rester longtemps voir plusieurs jours
+    During the fall or winter, when warm air from the ocean accumulates a lot of moisture before it enters land     
+    During spring and summer, advection fog over the ocean because the water has a colder surface than land.
+    In addition, there must be enough wind so that the air mass travels over the colder surface. 
+    
+3)Orographic fog : 
+ l'air remonte du cote au vent de la montagne et du brouillard apparait 
+ Relative strong wind needed 
+
+ 4) Front FOG :
+   L'air est saturee d'humidite et le brouillard devient visible si on ajoute juste un peu d'humidite 
+   Interface entre une mass d'air chaude et froide 
+   La plupard du temps le brouillard apparat avant un front chaud
+
+5) Steam Fog 
+    During autumn and winter, when air is cooler than water,
+    the evaporation from ocean cannot be absorb by the cold air
+    Not thick, just few feet and wind should be very low

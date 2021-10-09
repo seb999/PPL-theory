@@ -1,0 +1,23 @@
+Formation de precipitation 
+-  coalescence effect : water droplets collide each other and grow bigger 
+- Ice crystal effect : ice crystall raise moisture from subcooled dropplet
+
+Precipitation  : 
+1) rain (RA): 
+    drizzle (DZ), 
+    steady rain (NS), 
+    shower of rain (CB),
+    freezing rain To receive freezing rain, the rain needs to come from an inversion layer where you have plus degrees above a cooler layer.
+2)Snow (SN)
+
+3)Sleet (SNRA)
+  neige mouille. Reduce visibility for VFR 
+
+4)Hail (GS for small and GR for big) 
+     The hail falls like showers and are easy to detect and fly around 
+
+5)Snow grain (SG)
+    Drizzle that has frozen and become snowy grains
+
+6)Ice pellets (PL)
+    

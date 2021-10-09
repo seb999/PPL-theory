@@ -1,0 +1,29 @@
+
+1 ) From pression gradient
+created between high to low pressure. 
+More isobar close more pression gradien force high ?(wind) 
+
+2) Coriolis effect 
+  The air in north emisphere deflect to the right
+  It dosn't go straight from High to low pression 
+
+3)Geostrophic wind 
+  The wind is in reality parallele to isobar and depression at right if you face the wind 
+
+4) Centrifuge force 
+    At high pressure the centrifuge force is added to the 
+    pressure gradient and wind is stronger 
+    At low pressure, the centrifuge is remoed from rpession gradient 
+    and wind speed decrease
+
+The fiction layer 
+    this friction layer is between 2 - 3 000 feet above 
+    the surface. And if you leave the surface up to 
+    3 000 feet, the wind turns 30° to a higher degree 
+    and the wind speed will doubles. 
+    If, on the other hand, you go from 3 000 feet and 
+    down to the ground again, of course, the reverse 
+    will happen, so the wind will veer by 30° and 
+    the speed will decrease to 50 %.
+
+    

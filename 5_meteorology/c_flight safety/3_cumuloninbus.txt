@@ -1,0 +1,21 @@
+How to create a CB 
+
+-Unstable layers (air temp decrease rapidly with altitude)
+-Humidity 
+-Heaving (force that initiate the lift : during summer it is the heat)
+-Air colision (2 air mass converge at low altitude)
+
+CB RISKS 
+1) Shower of rain 
+2) Turbulence and ice 
+3) micro burst 
+
+How to create a CB 
+-air
+
+METAR 
+-ISOL (less than 50% of sky covered by CB)
+-OCNL (50 to 70% covered)
+-FREQ (more than 75% )
+-EMDB (CB not visible and emdebed in other clouds)
+-OBSC (Obscured : hidden by other clouds like Haze or Smoke)

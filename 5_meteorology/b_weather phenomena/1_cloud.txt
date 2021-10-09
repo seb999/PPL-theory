@@ -2,7 +2,7 @@
 Stratus(large) and Cumulus(small and round)
 
 altitude
-Low under 8000
+Low under 8000 feet
 Medium 8 to 20 000 called Alto
 High called cirrus
 
@@ -14,3 +14,44 @@ High : cirrostartus / cirrocumulus
 Vertical special clouds
 Cumulonimbus /nimbostratus
 
+CUMULUS:
+-turbulente, convective clouds, en bas c'est consititue seulement de fine goutte d'eau,
+en hauteur (altoCumulus, CirroCummulus c'est des goutte de glace)
+
+STRATUS:
+-peut etre cree par du brouillard, en effet le soleil va rechauffer la couche au sol,
+le brouillard va disparaitre mais pas au niveau superieur. 
+On peut dire que les startus sont du brouillard en altitude
+
+-une autre facon de creer des startus est poar une pluie discontinue,
+les gouttes de pluie en tombant vont saturer l'air en humidite et les nuages vont apparaitre 
+
+-Very stable clouds compare to cumulus, and can show where are inversion.
+Les inversion seront posee au sommet du stratus.
+
+NIMBUS:(rain clouds)
+CB (Cumulonimbus)
+NS (Nimbostartus) it is stratus with cumulus mix, that cover large area and can give continuous raain 
+
+STARTOCUNULUS : VFR ok ils ne font pas de pluie, c'est un mix cumulus et startus 
+
+ALTOCUMULUS LENTICULARIS : se forme au dessus des montagnes. Severe turbulence, ne pas voler avec 
+
+conculsion 10 nuages :
+
+1)CU cumulus
+2)ST Stratus 
+3)AC AltoCumulus 
+4)AS AltoStarus 
+5)CC Cirrrocumulus 
+6)CS Cirrostatus 
+7)CB Cumulonimbbus 
+8)NS Nimbostratus 
+9)SC StratoCumulus 
+10)CI Cirrus
+
+
+    Overcast (OVC) covers 8/8 of the sky
+    Broken (BKN) covers 5-7/8 of the sky
+    Scattered (SCT) cover 3-4/8 of the sky
+    Few (FEW) covers 1-2/8 of the sky

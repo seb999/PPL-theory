@@ -1,0 +1,27 @@
+Relation entre la temperature et la pression 
+
+On appel Lapse rate le changement de temperature de l';air avec l'altitude 
+La temperature baisse plus rapidement en altitude si l'air est sec -3 degrees / 1000 feet
+La temperature baisse moins vite si l'air saturee -1.8 degrees / 1000 feet 
+
+En realite le lapse rate n'est pas lineaire et on parle de environemental lapse rate 
+
+QUand l'air monte, elle refroidi adiabatiquement et augmente de volume. 
+Si elle refroidit plus que l'air ambiant, elle va redescendre
+
+Si elle ne refroidit pas assez, elle continue a monter
+
+Calcule de la hauteur des nuages:
+dew point - T /2.5degree x 1000 feet => (T - dew) x 400 
+
+Foehn effect :
+L'air humide remonte sur le cote au vent de la montagne, 
+puis atteind le dew point et des nuages se forment
+puis refroidit encore avec saturade adiabatic lapse rate.
+It start to rain, the humidity diminue est des nuages se forment encore plus hauteur
+de l;autre cote de la montagne. Puis la masse d;air baisse sur une Dry lapse adiabatic lapse rate 
+et depuis une plus haute altitude. Le resultat est une temperatue plus eleve du cote oppose au vent 
+
+
+
+

@@ -1,0 +1,7 @@
+NSWC (Nord Sweden Weather forcast)
+Map published 1.5h before it is valid 
+a map every 3h 06z, 09z,....21z
+
+VFR Chart 
+
+Radar images 

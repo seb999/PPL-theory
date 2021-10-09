@@ -1,0 +1,87 @@
+Observation vs Forcast 
+
+in sweden use SMHI service meteo 
+-radar observation 
+
+METAR (every 30 minutes  ten to or twenty past every hour)
+
+SPECI if weather change dramaticaly 
+
+METAR AUTO : done totally automaticaly 
+
+Make your own observations and keep observing weather in the air 
+
+Measurement of temp done at 150 to 175 cm from fround
+
+Reading a metar technique 
+ 
+
+
+Code 	Meaning
+- 	Light intensity
++ 	Heavy intensity
+/// 	Data missing
+AAA 	Amended meteorological message
+AT 	At (time)
+BC 	Patches
+BECMG 	Becoming
+BKN 	Broken (5-7/8)
+BL 	    Blowing
+BR 	    Mist
+CAVOK 	Ceiling And Visibility OK
+CB 	    Cumulonimbus
+CCA 	Corrected meteorological message
+DR 	    Low drifting
+DS 	    Duststorm
+DU 	    Widespread dust
+DZ 	    Drizzle
+EMBD 	Embedded in a layer
+FEW 	Few (1-2/8)
+FG 	    Fog
+FM 	    From (time)
+FU 	    Smoke
+FZ 	    Freezing
+G 	    Wind gusts
+GR 	    Hail
+GS 	    Small hail and/or Snow pellets
+HZ 	    Haze
+IC 	    Diamond dust
+KT 	    Knots
+LCA 	Local, location, located
+LYR 	Layer, layered
+MI 	    Shallow
+NCD 	No Clouds Detected
+Code 	Meaning
+NDV 	No Directional Variation available
+NOSIG 	Nil significant change
+NSC 	Nil Significant Cloud
+NSW 	Nil significant weather
+OBSC 	Obscure/obscured/obscuring
+OVC 	Overcast (8/8)
+PCT 	Per cent
+PL 	    Ice pellets
+PO 	    Dust/Sand whirls (dust devils)
+PR 	    Partial
+Q 	    Altimeter setting in QNH
+RA 	    Rain
+RE 	    Recent
+RRA 	Delayed meteorological message
+SA 	    Sand
+SCT 	Scattered (3-4/8)
+SG 	    Scattered (3-4/8)
+SH 	    Showers
+SKC 	Sky clear (only on NSWC)
+SN 	    Snow
+SQ 	    Squall
+SQL 	Squall line
+SS 	    Sandstorm
+TCU 	Towering cumulus
+TL 	    Until (time)
+TS 	    Thunderstorm
+UP 	    Unidentified Precipitation
+V 	    Variable wind
+VA 	    Volcanic Ash
+VAL 	In Valleys
+VC 	    In vicinity
+VV 	    Vertical Visibility
+WS 	    Wind Shear

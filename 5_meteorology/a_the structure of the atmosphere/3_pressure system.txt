@@ -1,0 +1,38 @@
+AIR MOVEMENT :
+-Convection
+-advection 
+-Subsidence mouvement d'air vers le bas (beau temps)
+
+DEFINITIONS:
+Convergence 
+Divergence 
+
+LOW PRESSURE :
+air pression est plus basse que l'air ambient 
+Example : air qui monte qui cree de l'instabilite 
+L'air monte, se refroidie et des nuages se forment 
+
+Autre example : Un front polaire qui rencontre the lair chaud et tropical
+l'air polair peut etre force de partir et une depression se forme 
+
+HIGH PRESSION :
+De l;air qui descent et qui se stabilise. Ca cree du beau temps.
+L'air est compressee en descendant, ce qui cree de la chaleur
+
+WEATHER :
+Low pression : nuages qui se forment, puis grele et orage, visibilite excelent car
+l;air en montant emmene les particules de poussiere
+
+High pression :  stable weather and clear blue sky.
+Visibility worst as moist and contaminant get stuck in the ground 
+Attention, pendant l;hivers, les temperature sont basses et ca peut creer des nuages de brouillard bas
+qui recouvre entirement le ciel. Impossible de voler pendanmt longtemps 
+
+PHENOMENA :
+Ligne de grain = squall line (deformation d'une zone de basse pression) 
+Ligne de crete = ridge of high pression ( deformation d'une zone de hautte pression)
+Col = 2 squales lines and 2 high pressure ridge meet 
+
+
+
+
