@@ -1,0 +1,10 @@
+Drift calculation
+drift x 60 /Distance accomplished + drift x 60 / Remainding distance 
+
+Descent calculation 
+method 1 : 3 time thousand of feet example 3x7000feet = 3x7 = 21NM 
+method 2 : use decent rate that is usually 500 feet / minute
+            example you want to descent 5000 feet so you need 10 minutes you calcultae 
+            with your ground speed the distance 90nm / 60 x10 15NM 
+
+            
