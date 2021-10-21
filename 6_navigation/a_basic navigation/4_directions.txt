@@ -1,0 +1,18 @@
+TT : True track
+TH : True heading (with wind correction)
+En reference au nord geograpgique de la create
+
+MT Magnetic track 
+MH : magnetic heading (with wind correction)
+En reference au nord magnetique
+
+CT : Compass track 
+CH : Compass heading (with wind correction) 
+En reference au nord encluant les deviation magnetique de l;avion 
+
+BEARING :
+angle between 2 objects called relative bearing
+TB : true bearing 
+MB : magnetic bearing 
+CB : compass bearing 
+

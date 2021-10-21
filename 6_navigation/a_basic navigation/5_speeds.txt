@@ -1,0 +1,8 @@
+IAS : Indicated airspeed
+Lue sur l'indicateur de vitesse de l'avion 
+
+Calibrated airspeed 
+CAS = IAS - location error 
+
+TAS : TRUE SPEED :
+You need your pressure altitude to calculate this speed 

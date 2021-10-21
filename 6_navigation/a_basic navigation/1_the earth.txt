@@ -1,0 +1,47 @@
+Pole 0.3% shorter than equator 
+axis of earth 23,5 degrees lean from sun orbit 
+
+DISTANCE 
+350 degrees 
+1 degrees = 60 minutes 
+
+1NM = 1852 meters = 1 degrees
+1 English Mile (SM : status mile) = 1609 Meters 
+1 Km = 1000 meters 
+
+Circonference 40 003 km 
+
+COORDINATES 
+Latitudes, longitudes, Arcuate distance 
+
+LATITUDE : 
+Arcuate distance between equator and latitude parallele 
+Origine of latitude is equator 
+
+LONGITUDE 
+Meridian, origine greenwich 
+London is arcuate distance between prime meridian and another meridian 
+
+GREAT CIRCLE 
+shortest way between 2 place on the earth surface. 
+It passes by center of earth 
+Great circle cut meridians in deference angle
+so you have to adjust direction all the time 
+Only on Meridian or equator you don'y need adjustement 
+
+RHUMB LINE 
+You just calculate the track between your starting point 
+and arrival point. You cut all meridian with same angle 
+But it is not the shortest distance 
+
+SMALL CIRCLE 
+they are longitude lines 
+
+CALCULATIONS 
+1 degrees = 60 nautical miles 
+Example distance between  53°34'N 015°12’E and 61°12'N 015°12'E 
+=61°12'N - 53°34'N = 7°38'. 7° x 60 + 38' = 458 NM.
+
+
+
+

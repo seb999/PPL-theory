@@ -1,0 +1,23 @@
+Compass is mandatory
+
+VARIATION
+Magnetique north versus Geographic north (around 4degree)
+Line of same variation are isogons
+
+DEVIATION
+Magnetic north versus Compass north 
+The compass is affected by the 
+
+INCLINATION 
+Dip angle of magnetique lines
+0 degree equator
+90 degrees poles 
+
+ERRORS
+turning error UNOS - undershoot north, overshoot south
+The mass will create a tork when the plane is not horizontal on horizon 
+
+acceleration error ANDS - accelerate North, Decelerate South 
+
+Directional gyro is drifting 
+

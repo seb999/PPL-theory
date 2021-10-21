@@ -1,0 +1,31 @@
+£ types of projections:
+Cylindrique, Conique, Azimute 
+
+PROPERTIES
+-Scale accuracy
+-Surface acuracy 
+-Angle acuracy 
+
+SCALES
+
+CONVERGENCE
+
+MERCATO PROJECTION (Cylindric)
+-angle acuracy and meridian completly straight 
+-a straight line is a rumb line 
+-scale is only correct at equator 
+-a rumb line is straight 
+-great circle will be convex 
+
+LAMBERT (cone)
+-intercept earth in 2 standard parallele 
+-most commun used for aviation 
+-scale correct on those 2 parallele
+-great cirle is a straignt line 
+-Rumb line are convex 
+
+Blue - Water
+Green - Forest
+White - Fields
+Yellow - Cities
+Brown/Grey - Mountains

@@ -5,3 +5,16 @@
 
 equinox
 solstice
+
+Sunrise : time when the sun pass the horizon on way up
+Sunset : time when the sun pass the horizon on way down 
+
+Morning twilight (dawn) : the sun pass 6 degrees bellow horizon way up 
+Evening twilight (dusk): the sun pass 6 degrees bellow the horizon on way down 
+
+LMT (Local Mean Time) : 4' by 1 degrees 
+LT (Local time)
+UTC (Universal Time coordinated)
+
+Sweden +1 during winter 
+        +2 during summer
