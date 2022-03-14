@@ -1,0 +1,21 @@
+NDB - Non directional Beacon
+Continues transmit carrier waves in all directions 
+Invented in 1920 Frequency 255 to 455 Khz (LF MF)
+Problem of accurancy
+MDB will turn 30degrees over the coast (coast effect)
+Mountain effect
+Static electricity affect it also
+Night effect (radio wave bounce )
+
+2 type of NDB
+-locators (range 30NM) identify with 2 letter and frequency
+-en route (200NM) identify with 3 letter 
+
+To recieve NDB signal you need a ADF (Automatic direction finder)
+
+
+NDB -> ADF(receiver)->RBI or RMI (display)
+
+RBI - Relative Bearing Indicator
+RMI =Radio magnetic Indicator - the rose show you the direction of the aircraft and you get the TRUE
+bearing to the beacon

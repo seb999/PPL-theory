@@ -1,0 +1,24 @@
+Distance measuring Equipement
+Invented in Australia in 1950
+962 - 1213 MHz (UHF)
+
+But to facilate usage, we use the same frequency as the VOR to set it up 
+108.0 - 117.95 MHz 
+
+A query station in the aircrast that send a pulse
+A responce station on the ground (Can be combinated with NDB or VOR) that send a reply 63Nhz more
+
+It measure the slant range and not the ground distance. 200NM distance max
+
+accuracy of ± 0.25 NM + 1.25 % of the slant range
+
+When you fly straight over the beacon you get your altitude and
+6000fett = 1NM so you read 1. DOn't use it if you are to close to it (ex: Alt 6000feet, stop using it when it indicaate dstance 6NM)
+
+Erros
+Use VHF so high relief can block the system
+-Mountaain
+-Shadow from obstacle 
+-it neasure distance from aicraft to ground and not ground distance 
+
+

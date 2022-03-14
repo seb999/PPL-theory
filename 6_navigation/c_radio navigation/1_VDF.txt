@@ -1,0 +1,8 @@
+VHF 30 -300Mhz
+
+VDF - Very High Frequency direction finder 
+118 - 126.950 MHz
+QDM - QDR - Magnetic bearing to and from
+QTE -QUJ - Geograqphic bearing from and to 
+
+

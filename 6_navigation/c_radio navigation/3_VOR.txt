@@ -1,0 +1,13 @@
+Very High Frequency Omnidirectional Radio range 
+Frequency 108 - 117.95 MHz 
+ILS       108 - 111.95 
+
+if first decimal is even (pair) it is a VOR 
+
+distance = 1.225 x sqrt(hight)
+
+RMI : will give you the magnetique bearing (with a NDB it give the geographic bearing) 
+OBI : Most small aircraft use this one
+HSI : Best reader device
+
+error +-5 degrees
