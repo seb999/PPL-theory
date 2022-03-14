@@ -1,0 +1,11 @@
+GPS : 24 sattelites
+Orbit : 20 200 km
+
+At least 5 sattelites to get your position
+
+3 sattelites give you 2 positions possible
+4 sattelites or 3+altimeter give your position
+
+A monitoring system called RAIM (Receiver Autonomous Integrity Monitoring) as been establish
+To achieve a fully functional RAIM service, at least five satellites
+This system exclude faulty sattelites

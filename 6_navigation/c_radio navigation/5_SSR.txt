@@ -1,0 +1,21 @@
+Primary radar:
+wave reflected by the aircraft
+
+Secondary radar:
+wave hit the aircraft, and aicraft re-emmit a new wave back
+interrogator 1030 MHz
+answer(aircraft transpondeur) 1090 MHz 
+
+4096 possible code:
+    7000 - General VFR code
+    7500 - Used when hijacked
+    7600 - Used for radio failure
+    7700 - Used in emergency situations
+
+    Mode A : only identity
+    Mode B : military
+    Mode C : identity and altitude - Altitude ref 1013hPa
+    MOde S : transpondeur that also talk with other aircraft 
+
+    Remember, we only use the Ident button if the air traffic controller tells us to Squawk ident.
+
